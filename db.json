@@ -4,25 +4,63 @@
   "description": "Teste os seus conhecimentos sobre Animal Crossing e veja o quanto este jogo é incrível",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "https://media.giphy.com/media/h8ISB2nUVITEWjVgGo/giphy.gif",
       "title": "Quando foi lançado o primeiro Animal Crossing",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "1999",
+        "2000",
+        "2001",
+        "2002"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://media.giphy.com/media/kZzeRN1srSziS4zZhB/giphy.gif",
+      "title": "Qual foi o primeiro jogo da série a permitir jogar online",
       "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "Animal Crossing: City Folk",
+         "Animal Crossing: Wild World",
+         "Animal Crossing: New Horizons",
+         "Animal Crossing: New Leaf"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/KLwnRzWX66z47AUbsR/giphy.gif",
+      "title": "Qual a data de nascimento de Blathers",
+      "description": "Um pouco de astrologia",
+      "answer": 3,
+      "alternatives": [
+         "21 de Junho",
+         "22 de Julho",
+         "23 de Agosto",
+         "24 de Setembro"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/kZzeRN1srSziS4zZhB/giphy.gif",
+      "title": "O que mais preocupa a Isabelle",
+      "description": "Essa é pra quem é fera, bicho",
+      "answer": 3,
+      "alternatives": [
+         "Perder dinheiro",
+         "Perder a hora",
+         "Perder a nota na ilha",
+         "Perder o programa na TV"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/PgzteiWeeknBAXYIs3/giphy.gif",
+      "title": "Quem vende as \"ações\" no jogo Animal Crossing: New Horizons ",
+      "description": "Momento Bettina",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Daisy Mae",
+         "Olda Rae",
+         "Joan Mae",
+         "Carly Rae"
       ]
     }
   ],
